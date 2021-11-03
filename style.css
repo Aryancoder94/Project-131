@@ -1,0 +1,15 @@
+#tittle{
+  font-size: 30px;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: italic;
+  font-weight: bolder;
+  color: grey;
+}
+body{
+    background-size: cover;
+    text-align: center;
+    
+}
+#a1,#a2,#a3,#a4{
+  text-align: center;
+}
